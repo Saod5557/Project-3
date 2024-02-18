@@ -1,6 +1,14 @@
 # Flutter Plants E-Commerce App
+All:
+![home_outdoor](https://github.com/FlutterBootCamps/Project-3/assets/124809082/3193e270-04f7-4158-bca4-6a6a2149af51)
+Indoor:
+![home_indoor](https://github.com/FlutterBootCamps/Project-3/assets/124809082/6cbb8630-a5d6-45aa-b615-f5a29e6d8263)
+Outdoor:
+![home](https://github.com/FlutterBootCamps/Project-3/assets/124809082/7388fecd-a42c-40f6-8aa1-4379e1b89de2)
+
 
 ## Overview
+
 
 Welcome to the Flutter Plants E-Commerce project! In this project, you will create a visually appealing user interface for a plants e-commerce application using Flutter. You'll apply various concepts including dealing with JSON data, creating models, retrieving information, using packages, implementing CRUD functionality, and following clean code principles.
 
